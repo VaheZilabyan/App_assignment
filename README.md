@@ -1,2 +1,2 @@
 ## Image from application
-![Main Window](C:/Users/vzila/Pictures/my_app)
+![Main Window](images/my_app.png) 
