@@ -1,2 +1,2 @@
 ## Image from application
-![Main Window](images/my_app.png) 
+![Main Window](image/my_app.png) 
